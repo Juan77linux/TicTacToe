@@ -12,10 +12,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Tres en raya</title>
+        <title>Cuatro en raya</title>
     </head>
     <body>
-        <h1>Tres en Raya</h1>
+        <h1>Cuatro en Raya</h1>
         <table border="5">
             <c:forEach var="line" items="${gameBean.gridLines}">
             <tr>
