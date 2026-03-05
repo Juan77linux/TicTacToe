@@ -18,7 +18,7 @@ Características:
 
 Ejemplo del juego:
 
-![Juego original](imagenes/version1.png)
+![Juego original](version1.png)
 
 ---
 
@@ -35,7 +35,7 @@ Cambios realizados:
 
 Ejemplo:
 
-![Juego en español](imagenes/version2.png)
+![Juego en español](version2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Cambios realizados:
 
 Ejemplo:
 
-![Borde más ancho](imagenes/version3.png)
+![Borde más ancho](version3.png)
 
 ---
 
@@ -64,7 +64,7 @@ Esto permite jugar **Cuatro en Raya**.
 
 Ejemplo:
 
-![Cuatro en raya](imagenes/version4.png)
+![Cuatro en raya](version4.png)
 
 ---
 
